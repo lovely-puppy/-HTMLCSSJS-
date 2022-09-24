@@ -379,5 +379,5 @@ window.onload = function () {
 };
 
 (function(){
-    console.alert('hhh');
+    alert('hhh');
 })();
