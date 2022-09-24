@@ -376,4 +376,8 @@ window.onload = function () {
             flag = !flag;
         }
     }
-}
+};
+
+(function(){
+    console.alert('hhh');
+})();
